@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1751269634166" clover="3.2.0">
+  <project timestamp="1751269634166" name="All files">
+    <metrics statements="174" coveredstatements="174" conditionals="46" coveredconditionals="44" methods="52" coveredmethods="52" elements="272" coveredelements="270" complexity="0" loc="174" ncloc="174" packages="34" files="51" classes="51"/>
+    <package name="assets.icons">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ScanIcon.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/assets/icons/ScanIcon.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+      <file name="arrowIcon.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/icons/arrowIcon.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="closeIcon.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/icons/closeIcon.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="envelopeIcon.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/icons/envelopeIcon.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="fastIcon.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/icons/fastIcon.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+      </file>
+      <file name="scanIcon.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/icons/scanIcon.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+      </file>
+      <file name="searchIcon.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/icons/searchIcon.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="assets.images">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="blurredLeaves.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/images/blurredLeaves.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="decorativeArtwork.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/images/decorativeArtwork.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="featureOverview.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/images/featureOverview.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="headerBackground.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/images/headerBackground.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="iPhoneScreen.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/images/iPhoneScreen.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="paywallPlant.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/images/paywallPlant.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="plantAppLogo.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/images/plantAppLogo.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="welcomeSlidePlant.png" path="/Users/gokceer/Desktop/Projects/plant-app/assets/images/welcomeSlidePlant.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="/Users/gokceer/Desktop/Projects/plant-app/components/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.ComingSoon">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ComingSoon.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/components/ComingSoon/ComingSoon.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="10" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="18" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.GradientText">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="GradientText.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/components/GradientText/GradientText.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="12" count="9" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="26" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.MainButton">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="MainButton.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/components/MainButton/MainButton.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="11" count="19" type="stmt"/>
+        <line num="24" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.RadioButton">
+      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="RadioButton.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/components/RadioButton/RadioButton.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="4" count="10" type="stmt"/>
+        <line num="5" count="33" type="stmt"/>
+        <line num="15" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.SearchBar">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="SearchBar.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/components/SearchBar/SearchBar.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="10" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="22" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.home">
+      <metrics statements="15" coveredstatements="15" conditionals="10" coveredconditionals="9" methods="4" coveredmethods="4"/>
+      <file name="HomeScreen.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/home/HomeScreen.tsx">
+        <metrics statements="15" coveredstatements="15" conditionals="10" coveredconditionals="9" methods="4" coveredmethods="4"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="39" count="4" type="stmt"/>
+        <line num="40" count="4" type="stmt"/>
+        <line num="43" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="54" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="87" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.home.components">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="/Users/gokceer/Desktop/Projects/plant-app/features/home/components/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="features.home.components.CategoryBox">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="CategoryBox.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/home/components/CategoryBox/CategoryBox.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.home.components.CategoryList">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="CategoryList.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/home/components/CategoryList/CategoryList.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.home.components.HeaderSection">
+      <metrics statements="12" coveredstatements="12" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+      <file name="HeaderSection.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/home/components/HeaderSection/HeaderSection.tsx">
+        <metrics statements="12" coveredstatements="12" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="19" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="20" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="21" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.home.components.PremiumBanner">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="PremiumBanner.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/home/components/PremiumBanner/PremiumBanner.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.home.components.QuestionCard">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="QuestionCard.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/home/components/QuestionCard/QuestionCard.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.home.components.QuestionList">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="QuestionList.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/home/components/QuestionList/QuestionList.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.onboarding">
+      <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="3" methods="7" coveredmethods="7"/>
+      <file name="OnboardingScreen.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/OnboardingScreen.tsx">
+        <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="3" methods="7" coveredmethods="7"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="30" count="6" type="stmt"/>
+        <line num="32" count="6" type="stmt"/>
+        <line num="37" count="34" type="stmt"/>
+        <line num="38" count="24" type="stmt"/>
+        <line num="43" count="8" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.onboarding.components">
+      <metrics statements="4" coveredstatements="4" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <file name="Footer.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/components/Footer.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="31" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.FeatureOverviewSlide">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="FeatureOverviewSlide.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/FeatureOverviewSlide/FeatureOverviewSlide.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/FeatureOverviewSlide/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.SubscriptionSlide">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="SubscriptionSlide.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/SubscriptionSlide/SubscriptionSlide.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="30" count="9" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="67" count="3" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/SubscriptionSlide/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.SubscriptionSlide.components">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/SubscriptionSlide/components/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.SubscriptionSlide.components.FeatureBox">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="FeatureBox.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/SubscriptionSlide/components/FeatureBox/FeatureBox.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="20" count="21" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.SubscriptionSlide.components.FeatureHeader">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="FeatureHeader.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/SubscriptionSlide/components/FeatureHeader/FeatureHeader.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.SubscriptionSlide.components.FeatureList">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="FeatureList.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/SubscriptionSlide/components/FeatureList/FeatureList.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="19" count="10" type="stmt"/>
+        <line num="27" count="20" type="stmt"/>
+        <line num="41" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.SubscriptionSlide.components.FooterLinks">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="FooterLinks.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/SubscriptionSlide/components/FooterLinks/FooterLinks.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.SubscriptionSlide.components.PlanCard">
+      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="PlanCard.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/SubscriptionSlide/components/PlanCard/PlanCard.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="19" count="30" type="stmt"/>
+        <line num="45" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.SubscriptionSlide.components.PlanOptions">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="PlanOptions.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/SubscriptionSlide/components/PlanOptions/PlanOptions.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="29" count="13" type="stmt"/>
+        <line num="31" count="13" type="stmt"/>
+        <line num="34" count="26" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="50" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.SubscriptionSlide.components.SubscriptionNote">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="SubscriptionNote.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/SubscriptionSlide/components/SubscriptionNote/SubscriptionNote.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.UsageGuideSlide">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="UsageGuideSlide.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/UsageGuideSlide/UsageGuideSlide.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/UsageGuideSlide/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="features.onboarding.slides.WelcomeSlide">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="WelcomeSlide.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/WelcomeSlide/WelcomeSlide.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/slides/WelcomeSlide/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="features.onboarding.utils">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="createSlides.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/features/onboarding/utils/createSlides.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="useOnboarding.ts" path="/Users/gokceer/Desktop/Projects/plant-app/hooks/useOnboarding.ts">
+        <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="11" type="stmt"/>
+        <line num="8" count="11" type="stmt"/>
+        <line num="10" count="11" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="26" count="11" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="35" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="navigation">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="CustomTabBar.tsx" path="/Users/gokceer/Desktop/Projects/plant-app/navigation/CustomTabBar.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

@@ -1,0 +1,120 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UsageGuideSlide renders correctly and matches snapshot 1`] = `
+<RNCSafeAreaView
+  edges={
+    {
+      "bottom": "additive",
+      "left": "additive",
+      "right": "additive",
+      "top": "additive",
+    }
+  }
+  style={
+    {
+      "backgroundColor": "white",
+    }
+  }
+>
+  <Text
+    style={
+      {
+        "fontFamily": "RubikMedium",
+        "fontSize": 28,
+        "marginBottom": 60,
+        "marginLeft": 24,
+        "marginTop": 12,
+      }
+    }
+  >
+    Get plant 
+    <Text
+      style={
+        {
+          "fontFamily": "RubikBold",
+        }
+      }
+    >
+      care guides
+    </Text>
+  </Text>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "position": "relative",
+      }
+    }
+  >
+    <Image
+      accessibilityLabel="Blurred leaves background"
+      source={
+        {
+          "testUri": "../../../assets/images/blurredLeaves.png",
+        }
+      }
+      style={
+        {
+          "height": 533.6,
+          "position": "absolute",
+          "top": -15,
+          "width": 750,
+          "zIndex": -1,
+        }
+      }
+    />
+    <Image
+      accessibilityLabel="Decorative artwork"
+      source={
+        {
+          "testUri": "../../../assets/images/decorativeArtwork.png",
+        }
+      }
+      style={
+        {
+          "height": 533.6,
+          "position": "absolute",
+          "top": -50,
+          "width": 750,
+          "zIndex": 1,
+        }
+      }
+    />
+    <Image
+      accessibilityLabel="Phone showing care guide"
+      source={
+        {
+          "testUri": "../../../assets/images/iPhoneScreen.png",
+        }
+      }
+      style={
+        {
+          "height": 1000.5,
+          "resizeMode": "contain",
+          "width": 750,
+        }
+      }
+    />
+    <View
+      colors={
+        [
+          "rgba(255,255,255,0)",
+          "rgba(255,255,255,1)",
+        ]
+      }
+      pointerEvents="none"
+      style={
+        {
+          "bottom": 0,
+          "height": 120,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+</RNCSafeAreaView>
+`;

@@ -1,0 +1,365 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoryList Component renders correctly and matches snapshot 1`] = `
+<View>
+  <RCTScrollView
+    data={
+      [
+        {
+          "id": 1,
+          "image": {
+            "url": "https://example.com/image1.jpg",
+          },
+          "title": "Category 1",
+        },
+        {
+          "id": 2,
+          "image": {
+            "url": "https://example.com/image2.jpg",
+          },
+          "title": "Category 2",
+        },
+        {
+          "id": 3,
+          "image": {
+            "url": "https://example.com/image3.jpg",
+          },
+          "title": "Category 3",
+        },
+        {
+          "id": 4,
+          "image": {
+            "url": "https://example.com/image4.jpg",
+          },
+          "title": "Category 4",
+        },
+      ]
+    }
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEnabled={false}
+    scrollEventThrottle={0.0001}
+    stickyHeaderIndices={[]}
+    viewabilityConfigCallbackPairs={[]}
+  >
+    <View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            [
+              {
+                "flexDirection": "row",
+              },
+              {
+                "justifyContent": "space-between",
+                "marginBottom": 16,
+                "marginHorizontal": 24,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              [
+                {
+                  "borderColor": "#29BB892E",
+                  "borderRadius": 12,
+                  "borderWidth": 0.5,
+                  "marginRight": 10,
+                  "overflow": "hidden",
+                  "width": 346,
+                },
+                {
+                  "height": 311.40000000000003,
+                },
+              ]
+            }
+            testID="categoryBox"
+          >
+            <View
+              accessibilityIgnoresInvertColors={true}
+              style={
+                {
+                  "flex": 1,
+                }
+              }
+            >
+              <Image
+                resizeMode="cover"
+                source={
+                  {
+                    "uri": "https://example.com/image1.jpg",
+                  }
+                }
+                style={
+                  [
+                    {
+                      "bottom": 0,
+                      "left": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                    },
+                    {
+                      "height": undefined,
+                      "width": undefined,
+                    },
+                    undefined,
+                  ]
+                }
+              />
+              <Text
+                numberOfLines={0}
+                style={
+                  {
+                    "color": "#13231B",
+                    "fontFamily": "RubikMedium",
+                    "fontSize": 16,
+                    "padding": 16,
+                    "width": "80%",
+                  }
+                }
+              >
+                Category 1
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              [
+                {
+                  "borderColor": "#29BB892E",
+                  "borderRadius": 12,
+                  "borderWidth": 0.5,
+                  "marginRight": 10,
+                  "overflow": "hidden",
+                  "width": 346,
+                },
+                {
+                  "height": 311.40000000000003,
+                },
+              ]
+            }
+            testID="categoryBox"
+          >
+            <View
+              accessibilityIgnoresInvertColors={true}
+              style={
+                {
+                  "flex": 1,
+                }
+              }
+            >
+              <Image
+                resizeMode="cover"
+                source={
+                  {
+                    "uri": "https://example.com/image2.jpg",
+                  }
+                }
+                style={
+                  [
+                    {
+                      "bottom": 0,
+                      "left": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                    },
+                    {
+                      "height": undefined,
+                      "width": undefined,
+                    },
+                    undefined,
+                  ]
+                }
+              />
+              <Text
+                numberOfLines={0}
+                style={
+                  {
+                    "color": "#13231B",
+                    "fontFamily": "RubikMedium",
+                    "fontSize": 16,
+                    "padding": 16,
+                    "width": "80%",
+                  }
+                }
+              >
+                Category 2
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        onFocusCapture={[Function]}
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            [
+              {
+                "flexDirection": "row",
+              },
+              {
+                "justifyContent": "space-between",
+                "marginBottom": 16,
+                "marginHorizontal": 24,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              [
+                {
+                  "borderColor": "#29BB892E",
+                  "borderRadius": 12,
+                  "borderWidth": 0.5,
+                  "marginRight": 10,
+                  "overflow": "hidden",
+                  "width": 346,
+                },
+                {
+                  "height": 311.40000000000003,
+                },
+              ]
+            }
+            testID="categoryBox"
+          >
+            <View
+              accessibilityIgnoresInvertColors={true}
+              style={
+                {
+                  "flex": 1,
+                }
+              }
+            >
+              <Image
+                resizeMode="cover"
+                source={
+                  {
+                    "uri": "https://example.com/image3.jpg",
+                  }
+                }
+                style={
+                  [
+                    {
+                      "bottom": 0,
+                      "left": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                    },
+                    {
+                      "height": undefined,
+                      "width": undefined,
+                    },
+                    undefined,
+                  ]
+                }
+              />
+              <Text
+                numberOfLines={0}
+                style={
+                  {
+                    "color": "#13231B",
+                    "fontFamily": "RubikMedium",
+                    "fontSize": 16,
+                    "padding": 16,
+                    "width": "80%",
+                  }
+                }
+              >
+                Category 3
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              [
+                {
+                  "borderColor": "#29BB892E",
+                  "borderRadius": 12,
+                  "borderWidth": 0.5,
+                  "marginRight": 10,
+                  "overflow": "hidden",
+                  "width": 346,
+                },
+                {
+                  "height": 311.40000000000003,
+                },
+              ]
+            }
+            testID="categoryBox"
+          >
+            <View
+              accessibilityIgnoresInvertColors={true}
+              style={
+                {
+                  "flex": 1,
+                }
+              }
+            >
+              <Image
+                resizeMode="cover"
+                source={
+                  {
+                    "uri": "https://example.com/image4.jpg",
+                  }
+                }
+                style={
+                  [
+                    {
+                      "bottom": 0,
+                      "left": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                    },
+                    {
+                      "height": undefined,
+                      "width": undefined,
+                    },
+                    undefined,
+                  ]
+                }
+              />
+              <Text
+                numberOfLines={0}
+                style={
+                  {
+                    "color": "#13231B",
+                    "fontFamily": "RubikMedium",
+                    "fontSize": 16,
+                    "padding": 16,
+                    "width": "80%",
+                  }
+                }
+              >
+                Category 4
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

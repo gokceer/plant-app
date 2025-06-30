@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FeatureHeader renders correctly and matches snapshot 1`] = `
+[
+  <Text
+    style={
+      {
+        "color": "white",
+        "fontFamily": "Rubik",
+        "fontSize": 26,
+        "marginBottom": 8,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "fontFamily": "RubikBold",
+          "fontSize": 30,
+        }
+      }
+    >
+      PlantApp
+    </Text>
+     Premium
+  </Text>,
+  <Text
+    style={
+      {
+        "color": "#FFFFFFB2",
+        "fontFamily": "RubikLight",
+        "fontSize": 17,
+      }
+    }
+  >
+    Access All Features
+  </Text>,
+]
+`;

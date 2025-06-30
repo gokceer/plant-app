@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ComingSoon Component renders correctly and matches snapshot 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "testUri": "../../../assets/images/plantAppLogo.png",
+      }
+    }
+    style={
+      {
+        "borderRadius": 10,
+        "height": 100,
+        "marginBottom": 12,
+        "width": 100,
+      }
+    }
+  />
+  <Text
+    style={
+      {
+        "fontFamily": "RubikMedium",
+        "fontSize": 16,
+      }
+    }
+  >
+    Coming Soon 🚀
+  </Text>
+</RCTSafeAreaView>
+`;

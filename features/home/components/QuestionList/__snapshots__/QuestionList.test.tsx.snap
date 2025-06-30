@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuestionList renders correctly and matches snapshot 1`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#13231B",
+        "fontFamily": "RubikMedium",
+        "fontSize": 15,
+        "marginBottom": 16,
+        "marginLeft": 24,
+      }
+    }
+  >
+    Get Started
+  </Text>
+  <RCTScrollView
+    bounces={false}
+    horizontal={true}
+    showsHorizontalScrollIndicator={false}
+    style={
+      {
+        "marginBottom": 24,
+        "marginLeft": 24,
+      }
+    }
+  >
+    <View>
+      <View
+        style={
+          {
+            "borderRadius": 12,
+            "height": 164,
+            "marginRight": 10,
+            "width": 240,
+          }
+        }
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            {
+              "borderRadius": 12,
+              "height": 164,
+              "overflow": "hidden",
+              "width": 240,
+            }
+          }
+        >
+          <Image
+            source={
+              {
+                "uri": "https://example.com/cactus.jpg",
+              }
+            }
+            style={
+              [
+                {
+                  "bottom": 0,
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                {
+                  "height": 164,
+                  "width": 240,
+                },
+                undefined,
+              ]
+            }
+          />
+          <View
+            style={
+              {
+                "borderBottomLeftRadius": 12,
+                "borderBottomRightRadius": 12,
+                "flex": 1,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#fff",
+                  "fontFamily": "RubikRegular",
+                  "fontSize": 15,
+                  "paddingHorizontal": 14,
+                  "paddingTop": 10,
+                }
+              }
+            >
+              How to water a cactus?
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "borderRadius": 12,
+            "height": 164,
+            "marginRight": 10,
+            "width": 240,
+          }
+        }
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            {
+              "borderRadius": 12,
+              "height": 164,
+              "overflow": "hidden",
+              "width": 240,
+            }
+          }
+        >
+          <Image
+            source={
+              {
+                "uri": "https://example.com/ferns.jpg",
+              }
+            }
+            style={
+              [
+                {
+                  "bottom": 0,
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                {
+                  "height": 164,
+                  "width": 240,
+                },
+                undefined,
+              ]
+            }
+          />
+          <View
+            style={
+              {
+                "borderBottomLeftRadius": 12,
+                "borderBottomRightRadius": 12,
+                "flex": 1,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "#fff",
+                  "fontFamily": "RubikRegular",
+                  "fontSize": 15,
+                  "paddingHorizontal": 14,
+                  "paddingTop": 10,
+                }
+              }
+            >
+              Best sunlight for ferns
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

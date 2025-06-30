@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar renders correctly and matches snapshot 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFFE0",
+      "borderRadius": 12,
+      "flexDirection": "row",
+      "height": 45,
+      "marginTop": 14,
+      "paddingHorizontal": 12,
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "testUri": "../../../assets/icons/searchIcon.png",
+      }
+    }
+    style={
+      {
+        "height": 20,
+        "marginRight": 8,
+        "width": 20,
+      }
+    }
+  />
+  <TextInput
+    placeholder="Search for plants"
+    placeholderTextColor="#AFAFAF"
+    style={
+      {
+        "flex": 1,
+        "fontSize": 16,
+      }
+    }
+  />
+</View>
+`;

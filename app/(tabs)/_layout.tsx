@@ -1,45 +1,67 @@
-import { Tabs } from 'expo-router';
-import React from 'react';
-import { Platform } from 'react-native';
+import { Tabs } from "expo-router";
+import React from "react";
 
-import { HapticTab } from '@/components/HapticTab';
-import { IconSymbol } from '@/components/ui/IconSymbol';
-import TabBarBackground from '@/components/ui/TabBarBackground';
-import { Colors } from '@/constants/Colors';
-import { useColorScheme } from '@/hooks/useColorScheme';
+import DiagnoseIcon from "@/assets/icons/DiagnoseIcon";
+import HomeIcon from "@/assets/icons/HomeIcon";
+import MyGardenIcon from "@/assets/icons/MyGardenIcon";
+import ProfileIcon from "@/assets/icons/ProfileIcon";
+import CustomTabBar from "@/navigation/CustomTabBar";
+import { StyleSheet } from "react-native";
 
 export default function TabLayout() {
-  const colorScheme = useColorScheme();
-
   return (
     <Tabs
       screenOptions={{
-        tabBarActiveTintColor: Colors[colorScheme ?? 'light'].tint,
         headerShown: false,
-        tabBarButton: HapticTab,
-        tabBarBackground: TabBarBackground,
-        tabBarStyle: Platform.select({
-          ios: {
-            // Use a transparent background on iOS to show the blur effect
-            position: 'absolute',
-          },
-          default: {},
-        }),
-      }}>
+        tabBarActiveTintColor: "#28AF6E",
+      }}
+    >
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Home',
-          tabBarIcon: ({ color }) => <IconSymbol size={28} name="house.fill" color={color} />,
+          tabBarLabel: "Home",
+          tabBarLabelStyle: styles.labelStyle,
+          tabBarIcon: ({ color }) => <HomeIcon color={color} />,
         }}
       />
       <Tabs.Screen
-        name="explore"
+        name="diagnose"
         options={{
-          title: 'Explore',
-          tabBarIcon: ({ color }) => <IconSymbol size={28} name="paperplane.fill" color={color} />,
+          tabBarLabel: "Diagnose",
+          tabBarLabelStyle: styles.labelStyle,
+          tabBarIcon: ({ color }) => <DiagnoseIcon color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="scan"
+        options={{
+          tabBarLabel: "",
+          tabBarButton: CustomTabBar,
+        }}
+      />
+      <Tabs.Screen
+        name="mygarden"
+        options={{
+          title: "My Garden",
+          tabBarLabelStyle: styles.labelStyle,
+          tabBarIcon: ({ color }) => <MyGardenIcon color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="profile"
+        options={{
+          title: "Profile",
+          tabBarLabelStyle: styles.labelStyle,
+          tabBarIcon: ({ color }) => <ProfileIcon color={color} />,
         }}
       />
     </Tabs>
   );
 }
+
+const styles = StyleSheet.create({
+  labelStyle: {
+    fontFamily: "RubikRegular",
+    fontSize: 10,
+  },
+});

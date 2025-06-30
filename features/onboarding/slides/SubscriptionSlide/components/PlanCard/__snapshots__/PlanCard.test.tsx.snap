@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PlanCard renders correctly and matches snapshot 1`] = `
+<View
+  accessibilityRole="radio"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": false,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "borderRadius": 14,
+        "marginBottom": 16,
+        "padding": 16,
+      },
+      {
+        "backgroundColor": "#FFFFFF0D",
+      },
+    ]
+  }
+  testID="planCard1year"
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "gap": 12,
+      }
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF26",
+            "borderRadius": 12,
+            "height": 24,
+            "justifyContent": "center",
+            "width": 24,
+          },
+          false,
+        ]
+      }
+      testID="radioOuterView"
+    />
+    <View
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "position": "relative",
+          }
+        }
+      >
+        <Text
+          style={
+            {
+              "color": "#fff",
+              "fontFamily": "RubikMedium",
+              "fontSize": 16,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          1 Year
+        </Text>
+      </View>
+      <Text
+        style={
+          {
+            "color": "#FFFFFFB2",
+            "fontFamily": "RubikLight",
+            "fontSize": 14,
+            "marginTop": 4,
+          }
+        }
+      >
+        First 3 days free, then $529.99/year
+      </Text>
+    </View>
+  </View>
+</View>
+`;

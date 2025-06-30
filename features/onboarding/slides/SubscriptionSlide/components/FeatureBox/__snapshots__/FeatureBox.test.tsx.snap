@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FeatureBox renders correctly and matches snapshot 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#FFFFFF14",
+      "borderRadius": 12,
+      "height": 130,
+      "marginRight": 8,
+      "padding": 16,
+      "width": 156,
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "uri": "https://example.com/image1.jpg",
+      }
+    }
+    style={
+      {
+        "height": 36,
+        "width": 36,
+      }
+    }
+  />
+  <Text
+    style={
+      {
+        "color": "#fff",
+        "fontFamily": "RubikMedium",
+        "fontSize": 20,
+        "paddingTop": 16,
+      }
+    }
+  >
+    Unlimited
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#FFFFFFB2",
+        "fontFamily": "RubikRegular",
+        "fontSize": 12,
+        "paddingTop": 4,
+      }
+    }
+  >
+    Plant Identify
+  </Text>
+</View>
+`;

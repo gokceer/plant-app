@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SubscriptionNote renders correctly and matches snapshot 1`] = `
+<Text
+  style={
+    {
+      "color": "#FFFFFF85",
+      "fontFamily": "RubikLight",
+      "fontSize": 10,
+      "marginTop": 8,
+      "textAlign": "center",
+    }
+  }
+>
+  After the 3-day free trial period you’ll be charged ₺274.99 per year unless you cancel before the trial expires. Yearly Subscription is Auto-Renewable
+</Text>
+`;

@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuestionCard renders correctly and matches snapshot 1`] = `
+<View
+  style={
+    {
+      "borderRadius": 12,
+      "height": 164,
+      "marginRight": 10,
+      "width": 240,
+    }
+  }
+>
+  <View
+    accessibilityIgnoresInvertColors={true}
+    style={
+      {
+        "borderRadius": 12,
+        "height": 164,
+        "overflow": "hidden",
+        "width": 240,
+      }
+    }
+  >
+    <Image
+      source={
+        {
+          "uri": "https://example.com/question-image.jpg",
+        }
+      }
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "height": 164,
+            "width": 240,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        {
+          "borderBottomLeftRadius": 12,
+          "borderBottomRightRadius": 12,
+          "flex": 1,
+          "overflow": "hidden",
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#fff",
+            "fontFamily": "RubikRegular",
+            "fontSize": 15,
+            "paddingHorizontal": 14,
+            "paddingTop": 10,
+          }
+        }
+      >
+        Test Question Title
+      </Text>
+    </View>
+  </View>
+</View>
+`;

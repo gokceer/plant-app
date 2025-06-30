@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FeatureOverviewSlide renders correctly and matches snapshot 1`] = `
+<RNCSafeAreaView
+  edges={
+    {
+      "bottom": "additive",
+      "left": "additive",
+      "right": "additive",
+      "top": "additive",
+    }
+  }
+>
+  <Text
+    style={
+      {
+        "fontFamily": "RubikMedium",
+        "fontSize": 28,
+        "marginLeft": 24,
+        "marginVertical": 12,
+      }
+    }
+  >
+    Take a photo to
+    <Text
+      style={
+        {
+          "fontFamily": "RubikBold",
+        }
+      }
+    >
+       identify 
+    </Text>
+    
+
+    the plant!
+  </Text>
+  <Image
+    accessibilityLabel="Example of taking a photo to identify a plant"
+    source={
+      {
+        "testUri": "../../../assets/images/featureOverview.png",
+      }
+    }
+    style={
+      {
+        "alignSelf": "center",
+        "height": 1000.5,
+        "resizeMode": "contain",
+        "width": 750,
+      }
+    }
+  />
+</RNCSafeAreaView>
+`;
